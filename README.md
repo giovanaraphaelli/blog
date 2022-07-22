@@ -8,28 +8,27 @@ Este é um projeto simples de um blog, que tinha como objetivo aprender conceito
 
 ## 🚀 Como executar o projeto
 
-```bash
 
-# Clone este repositório
+1. Clone este repositório
 
-$ git clone https://github.com/giovanaraphaelli/blog.git
+```bash $ git clone https://github.com/giovanaraphaelli/blog.git ```
 
-# Acesse a pasta do projeto no seu terminal/cmd
+2. Acesse a pasta do projeto no seu terminal/cmd
 
-$ cd blog
+```bash $ cd blog ```
 
-# Abra a pasta do projeto no VS Code via terminal/cmd
+3. Abra a pasta do projeto no VS Code via terminal/cmd
 
-$ code .
+```bash $ code . ```
 
-# Instale as dependências
+4. Instale as dependências
 
-$ yarn install
+```bash $ yarn install ```
 
-# Execute a aplicação em modo de desenvolvimento
+5. Execute a aplicação em modo de desenvolvimento
 
-$ yarn start
+```bash $ yarn start ```
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+6. A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
-```
+
